@@ -1,18 +1,1 @@
-public class CaseProblem {
-    public static void main(String[] args) {
-        // Display personal information
-        System.out.println("Name: Criszha Mae G. Mahalidan");
-        System.out.println("ID Number: 2024303294");
-        System.out.println("------------------------------");
 
-        int sum = 0;
-
-        // Compute the sum of the first 10 even numbers
-        for (int i = 1; i <= 10; i++) {
-            sum += i * 2;  // even numbers: 2, 4, 6, 8, ...
-        }
-
-        // Display the result
-        System.out.println("Result: The sum of the first 10 even numbers is " + sum);
-    }
-}
